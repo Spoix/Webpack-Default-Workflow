@@ -33,6 +33,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
-    "node-sass": "^6.0.0"
+    "node-sass": "^6.0.0",
+    "ws": "^6.2.1"
   }
 }
