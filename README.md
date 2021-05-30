@@ -20,7 +20,7 @@ It's being used the following webpack loaders:
 - [style-loader](https://webpack.js.org/loaders/style-loader/)
 > Inject CSS into the DOM.
 
-- [css-loader]https://webpack.js.org/loaders/css-loader/)
+- [css-loader](https://webpack.js.org/loaders/css-loader/)
 > The css-loader interprets @import and url() like import/require() and will resolve them.
 
 - [sass-loader](https://webpack.js.org/loaders/sass-loader/)
@@ -120,7 +120,7 @@ The folder structure is just a sugestion and can be customized according to the 
 
 
 ## My sincere thanks to
-This repository was made as a practice/studying tool, based on the documentation brought above from external sources and on the following tutorials, in case one needs further reference then that presented here:
+This repository was made as a practice/studying tool, based on the documentation brought above from external sources and on the following tutorials, in case one needs further reference than that presented here:
 - https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/es6-modules
 - https://www.youtube.com/watch?v=MpGLUVbqoYQ
 - https://www.youtube.com/watch?v=TOb1c39m64A
