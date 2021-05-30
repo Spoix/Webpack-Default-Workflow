@@ -21,9 +21,8 @@
   "homepage": "https://github.com/Spoix/Webpack-Default-Workflow#readme",
   "devDependencies": {
     "css-loader": "^5.2.6",
-    "file-loader": "^6.2.0",
-    "html-loader": "^2.1.2",
     "html-webpack-plugin": "^5.3.1",
+    "mini-css-extract-plugin": "^1.6.0",
     "sass": "^1.34.0",
     "sass-loader": "^11.1.1",
     "style-loader": "^2.0.0",
@@ -33,6 +32,7 @@
     "webpack-merge": "^5.7.3"
   },
   "dependencies": {
+    "clean-webpack-plugin": "*",
     "node-sass": "^6.0.0",
     "ws": "^6.2.1"
   }
