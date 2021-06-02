@@ -18,10 +18,21 @@ module.exports = merge(common, {
                 test: /\.scss$/i,
                 use: [
                     MiniCssExtractPlugin.loader, // 3. Extract css into files
-                    "css-loader", // 2. Turns css into js
+                    "css-loader",
+                    "postcss-loader", // 2. Turns css into js
                     "sass-loader" // 1. Turns sass into css
                 ]
-            }
+            },
+            {
+                test: /\.js$/,
+                exclude: /node_modules/,
+                use: {
+                  loader: 'babel-loader',
+                  options: {
+                    presets: ['@babel/preset-env']
+                  }
+                }
+              }
         ]
     }
 });

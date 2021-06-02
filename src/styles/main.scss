@@ -2,3 +2,7 @@
 @use './utilities/utilities';
 
 
+body {
+    display: flex;
+    flex-direction: column;
+}

@@ -9,9 +9,13 @@ A set of configurations designed to be used as a default webpack workflow.
 ## Packages and tools
 This workflow makes use of the following packages and tools:
 - [Webpack](https://webpack.js.org/)
+> To bundle our files.
 - [Sass](https://sass-lang.com/)
+> To make CSS a little easier to write.
 - [Babel](https://babeljs.io/)
+> To transpile our javascript code to older versions.
 - [PostCSS](https://postcss.org/)
+> To add vendor prefixes and make our app more compatible with different browsers.
 
 It's designed to be quick to understand, easy to use and to scale into more complex sets of packages. 
 
