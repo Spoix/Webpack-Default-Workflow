@@ -121,15 +121,3 @@ The folder structure is just a sugestion and can be customized according to the 
 ├── webpack.dev.js
 └── webpack.prod.js
 ```
-
-
-## My sincere thanks to
-This repository was made as a practice/studying tool, based on the documentation brought above from external sources and on the following tutorials, in case one needs further reference than that presented here:
-- https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/es6-modules
-- https://www.youtube.com/watch?v=MpGLUVbqoYQ
-- https://www.youtube.com/watch?v=TOb1c39m64A
-- https://www.youtube.com/watch?v=SH6Y_MQzFVw
-- https://www.youtube.com/watch?v=iWUR04B42Hc
-- https://www.youtube.com/watch?v=X1nxTjVDYdQ
-- https://www.youtube.com/watch?v=lziuNMk_8eQ
-- https://www.youtube.com/watch?v=nu5mdN2JIwM
